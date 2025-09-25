@@ -1,7 +1,7 @@
 # Java Gradle Demo
 
 A simple Java application built with Gradle.  
-This project demonstrates how to use **Gradle** for building, testing, and running Java applications.
+This project demonstrates how to use **Gradle** for building, testing, and running Java applicationsalso wrote the yaml file that i'm usingto build o the project.
 
 ---
 
